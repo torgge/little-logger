@@ -1,0 +1,8 @@
+bonespirito:
+  logger-configuration:
+    uri: https://www.uuidtools.com/api/generate/v4
+    token: 222
+    prefix: OMS-LOGGER-
+    method: GET
+server:
+  port: 8989
